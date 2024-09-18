@@ -8,12 +8,15 @@ const config: Config = {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        Bebas: ['Bebas Neue', 'sans-serif'],
+        Poppins: ['Poppins', 'system-ui;']
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
 
         RedP:"#c83519",
-        OrangeP: "#F94A29",
       },
     },
   },
