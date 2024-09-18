@@ -19,7 +19,7 @@ export default function Services() {
                     <article className="flex flex-wrap flex-col gap-6 mt-16  items-center justify-center lg:flex-row">
                         <div className="border border-RedP rounded-xl w-[400px] p-6">
                             <article className="border-b border-white">
-                                <h1 className="font-Bebas text-xl">Rodas Exclusivas</h1>
+                                <h1 className="font-Bebas text-xl text-white">Rodas Exclusivas</h1>
                                 <p className="mb-4 text-gray-300">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
                             </article>
                             <div className="mt-4">
@@ -29,7 +29,7 @@ export default function Services() {
 
                         <div className="border border-RedP rounded-xl w-[400px] p-6">
                             <article className="border-b border-white">
-                                <h1 className="font-Bebas text-xl">Pneus novos e Semi-novos</h1>
+                                <h1 className="font-Bebas text-xl text-white">Pneus novos e Semi-novos</h1>
                                 <p className="mb-4 text-gray-300">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
                             </article>
                             <div className="mt-4">
@@ -39,7 +39,7 @@ export default function Services() {
 
                         <div className="border border-RedP rounded-xl w-[400px] p-6">
                             <article className="border-b border-white">
-                                <h1 className="font-Bebas text-xl">Customização</h1>
+                                <h1 className="font-Bebas text-xl text-white">Customização</h1>
                                 <p className="mb-4 text-gray-300">Lorem ipsum dolor sit amet consectetur, adipisicing elit.</p>
                             </article>
                             <div className="mt-4">
