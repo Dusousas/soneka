@@ -3,8 +3,7 @@
 @tailwind utilities;
 
 body {
-  font-family: Poppins', 'system-ui;
-  /* color: white; */
+  font-family: "Poppins", sans-serif;
 }
 
 .maxWidth{
@@ -20,7 +19,7 @@ body {
 }
 
 .mainBG {
-  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 1)), url("../public/mainBG1.jpg");
+  background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 70%, rgba(0, 0, 0, 1)), url('../public/mainBG1.jpg');
   background-size: cover;
   height: 100vh;
   background-position: center;
